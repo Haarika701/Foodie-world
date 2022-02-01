@@ -1,0 +1,131 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Pasta with Garlic Scallions Cauliflower & Breadcrumbs",
+        "calories": 584,
+        "instructions": "In a large skillet, melt butter over medium heat until foamy. Then add bread crumbs, tossing to coat in butter, until toasted and lightly browned. Remove from pan into small bowl; mix in cheese and about a tablespoon of the green scallion tops.",
+        "category": " Vegetarian",
+        "image": "https://www.wellplated.com/wp-content/uploads/2019/10/Cauliflower-Pasta-with-Peas-600x855.jpg",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 2,
+        "title": "Bruschetta Style Pork & Pasta",
+        "calories": 521,
+        "instructions": "wash and rinse pork chops and place into the skillet.cut them into bite sized pieces and add half of the Basil Garlic simmer sauce.boil your water and start working on cooking your bow-tie pasta.when you have finished with boiling and draining your pasta, add it to the pork along with the rest of the Basil Garlic Simmering Sauce, mixing lightly.Next you will top with the Chunky Bruschetta Finishing Sauce, cover with Parmesan, and cover. Cooking on low heat 2 to 3 minutes or until heated through.",
+        "category": "Meat",
+        "image": "https://i.pinimg.com/originals/b1/4e/3c/b14e3cdea64cd0a120afc27bb7a0d0f8.jpg",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 3,
+        "title": "4 Cheese Pizza",
+        "calories": 521,
+        "instructions": "Make the pizza dough. Preheat oven for 420 F.Add marinara and your favorite cheese to the pizza base and bake for 20 mins",
+        "category": "Vegetarian",
+        "image": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/01/4-evidenza.jpg",
+        "difficulty": "Medium"
+      },
+      {
+        "id": 4,
+        "title": "Garlic Hummus",
+        "calories": 500,
+        "instructions": "Drain chickpeas, reserving 1/4 cup of the liquid. Transfer the chickpeas and the reserved liquid to a food processor. Add tahini, oil, lemon juice, garlic, cumin, chili powder and salt. Puree until very smooth, 2 to 3 minutes.",
+        "category": "Vegan",
+        "image": "https://www.cookingclassy.com/wp-content/uploads/2014/09/roasted-garlic-hummus9+srgb..jpg",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 5,
+        "title": "Veggie Kimbap",
+        "calories": 350,
+        "instructions": "Gather all the ingredients,Scoop up 3/4 cup of rice and put it on the seaweed. Spread it across the sheet using your fingers, until 2/3 of the sheet is covered. Leave the section that’s furthest from you empty. Using your thumbs, hold the bottom edge of the bamboo mat (the side closest to you) and lift. Hold on to the filling with your other fingers, so they don’t fall out, and begin rolling. Roll into a tight cylinder while tucking the filling in firmly. Keep rolling until you get to the empty part of the seaweed. Dip a couple of fingers in water and lightly run them across the seaweed.Take the basting brush, lightly dip it in sesame oil and brush the outside of the kimbap.Slice the roll into bite size pieces and serve.",
+        "category": "Vegetarian",
+        "image": "https://www.rachelphipps.com/wp-content/uploads/2021/05/Veggie-Kimbap.jpg",
+        "difficulty": "Medium"
+      },
+      {
+        "id": 6,
+        "title": "Soba",
+        "calories": 575,
+        "instructions": "Cook soba noodles according to package directions. Drain and rinse the soba noodles under cool running water (this helps them to not turn mushy!). (Note: If using 100% soba noodles, careful to watch the water after 2 minutes or so, it will start to become foamy and bubble over – turn the heat to medium and back up again as needed to keep the water at a boil but not boiling over.),In a small bowl, whisk together the miso sauce ingredients together, set aside.Serve noodles in individual bowls with ⅓ cup each sugar snap peas, shredded carrots, cucumber, and red cabbage. Top with radishes, sliced scallions, sesame seeds, cilantro and lime wedges to squeeze over top. Drizzle dressing overtop and enjoy!",
+        "category": "Vegan",
+        "image": "https://www.justonecookbook.com/wp-content/uploads/2016/08/Soba-Salad-NEW-500x375.jpg",
+        "difficulty": "Medium"
+      },
+      {
+        "id": 7,
+        "title": "Falafel",
+        "calories": 680,
+        "instructions": "Place the dried chickpeas and baking soda in a large bowl filled with water to cover the chickpeas by at least 2 inches. Soak overnight for 18 hours (longer  if the chickpeas are still too hard). When ready, drain the chickpeas completely and pat them dry.Add the chickpeas, herbs, onions, garlic and spices to the large bowl of a food processor fitted with a blade. Run the food processor 40 seconds at a time until all is well combined forming a the falafel mixture.Transfer the falafel mixture to a container and cover tightly. Refrigerate for at least 1 hour or (up to one whole night) until ready to cook.Just before frying, add the baking powder and sesame seeds to the falafel mixture and stir with a spoon.Scoop tablespoonfuls of the falafel mixture and form into patties (½ inch in thickness each). It helps to have wet hands as you form the patties.Fill a medium saucepan 3 inches up with oil. Heat the oil on medium-high until it bubbles softly. Carefully drop the falafel patties in the oil, let them fry for about 3 to 5 minutes or so until crispy and medium brown on the outside. Avoid crowding the falafel in the saucepan, fry them in batches if necessary.Place the fried falafel patties in a colander or plate lined with paper towels to drain.Serve falafel hot next to other small plates; or assemble the falafel patties in pita bread with tahini or hummus, arugula, tomato and cucumbers. Enjoy!",
+        "category": "Vegetarian",
+        "image": "https://wellandfull.com/wp-content/uploads/2016/11/wellandfull-8-5.jpg",
+        "difficulty": "Medium"
+      },
+      {
+        "id": 8,
+        "title": "Veggie Cassoulet",
+        "calories": 750,
+        "instructions": "Place racks in upper and lower thirds of oven and preheat to 425°. Toss eggplant, fennel seeds, red pepper flakes, 6 Tbsp. oil, and 1 tsp. Diamond Crystal or ½ tsp. Morton kosher salt in a 3-qt. or 13x9 baking dish; season with black pepper. Roast on bottom rack, tossing halfway through, until golden and tender, 25–30 minutes. Let cool.Meanwhile, heat remaining 1 Tbsp. oil in a large Dutch oven or other heavy pot over medium-high. Add haricots verts, season with salt, and cook, tossing every minute or so, until they start to release moisture and steam, about 5 minutes. Add anchovies, garlic, wine, and tomato paste and cook, stirring with a wooden spoon or heatproof rubber spatula to break up paste, 1 minute. Add ¾ cup water, cover pot, and cook until haricots verts are crisp-tender, 5–7 minutes.Add cherry tomatoes and butter beans, re-cover pot, and cook until tomatoes start to burst, 5–7 minutes. Remove pot from heat, uncover, and stir in parsley, marjoram, and thyme.While the beans and tomatoes are cooking, spread Gruyère out on a parchment-lined baking sheet and bake on top rack until melted and almost done bubbling and golden, 8–10 minutes (check often). Let cool.Using a slotted spoon, scoop tomato and bean mixture over and around eggplant in baking dish, arranging so everything is nestled together but eggplant isn’t completely covered. Pour liquid left in pot over. Remove crispy Gruyère from parchment and crumble on top of cassoulet.",
+        "category": "Vegetarian",
+        "image": "https://www.connoisseurusveg.com/wp-content/uploads/2017/02/vegan-cassoulet-3.jpg",
+        "difficulty": "Hard"
+      },
+      {
+        "id": 9,
+        "title": "Vegan Oatmeal Cookies",
+        "calories": 760,
+        "instructions": "Preheat the oven to 350°F (180°C)Add the rolled oats, flour, coconut, baking soda, salt and cinnamon to a mixing bowl and mix together.Cream the vegan butter and brown sugar together and then add the syrup and vanilla and mix in.Then mix the dry ingredients into the wet ingredients by hand. Stirring until the mixture is very crumbly.Add the soy milk and mix in. Check if you can roll some of it into a ball – it should be sticky enough to do so. It will still be crumbly and look almost as if it's still too dry, but when you try and make a ball you'll find it's also very sticky. If it's still too crumbly, add a tiny bit more soy milk until it's sticky enough to roll into balls. When rolling into balls, you'll find that you're more pressing them into balls than rolling, this is fine, press into a ball and then roll a bit to make it nice and round and even.Place the rolled balls onto a parchment lined baking tray. Aim to get around 20 cookies from the batch.Bake for 12 minutes. The edges should be firm and the tops lightly browned. They will be soft but will firm up while cooling.Remove from the oven and allow to cool and firm up directly on the tray.",
+        "category": "Vegan",
+        "image": "https://nosweatvegan.com/wp-content/uploads/2020/09/vegan-oatmeal-raisin-cookies-4.jpg",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 10,
+        "title": "Vegan Apple Crisp",
+        "calories": 780,
+        "instructions": "Preheat oven to 350 F degrees.  Butter an 8×8 baking dish, or spray with non-stick cooking spray.Set aside.In a mixing bowl, add chopped apples, granulated sugar, 3/4 tsp of the cinnamon and lemon juice.  Stir to combine, then transfer to prepared baking dish.In a separate mixing bowl, add topping ingredients (brown sugar, oats, flour, 1 tsp cinnamon, salt, and diced cold butter).  Use a pastry cutter to cut the butter into the oat mixture, using a slight downward twisting motion, until mixture resembled pea-sized crumbs.  Alternatively, you can use two forks or even your hands to cut butter into the mixture.Spread topping over apples in baking dish, and gently pat to even it out.  Bake 40-50 minutes, until golden brown and bubbly.Serve warm and enjoy!",
+        "category": "Vegan",
+        "image": "https://nosweatvegan.com/wp-content/uploads/2021/07/apple-crisp-vegan.jpg",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Tomato Risottto",
+        "calories": "500",
+        "instructions": "Bring broth to a simmer in a medium saucepan; keep warm over medium-low heat until ready to use.  Step 2 Meanwhile, heat 2 Tbsp. oil in a large saucepan over medium. Add onion and cook, stirring often, until golden and very soft, 8–10 minutes. Add garlic and cook, stirring, until softened, about 1 minute. Add tomato paste and cook, stirring often, until it darkens slightly and begins to stick to pan, about 2 minutes. Add tomatoes and nutmeg, if using, and cook, stirring occasionally, until some of the tomatoes begin to burst, about 2 minutes.  Step 3 Stir in rice; season with salt, and reduce heat to medium-low. Cook, stirring, until some grains are translucent, about 3 minutes. Ladle in 2 cups broth and simmer, stirring frequently, until completely absorbed, 8–10 minutes. Ladle in another 2 cups broth and continue to cook, stirring frequently, until rice is cooked through and most of the broth is absorbed, 12–15 minutes.  Step 4 Add butter, 2 oz. Parmesan, and remaining 1 cup broth and cook, stirring constan",
+        "category": "Vegetarian",
+        "image": "https://assets.bonappetit.com/photos/5d1bb49b2e7610000983afd6/1:1/w_2240,c_limit/Print-Tomato-Risotto.jpg",
+        "difficulty": "Medium",
+        "id": 11
+      },
+      {
+        "title": "Channa Bhatura",
+        "calories": "208",
+        "instructions": "Make the bhatura dough: Place all the ingredients except the water in a food processor, bowl of a stand mixer, or, if kneading by hand, in a large bowl. Drizzle in the water and knead until you have an elastic but firm dough. Place in an airtight container and set it aside while you make the chana masala. Make the chana masala: Heat the oil in a saucepan and add the whole spices -- the bay leaf, cardamom, cinnamon and cloves. Finally add the cumin and stir to mix. When the cumin sizzles, add the onions with some salt and cook until the onions turn golden-brown. Add the ginger-garlic paste and saute for a minute. Add the cayenne and turmeric, saute for another minute, then add the diced tomatoes. Mix well and let the tomatoes cook, stirring them frequently, until they are completely broken down and very pulpy. Add the chickpeas along with 2 cups of water and stir well. Add the chana masala spice mix. and stir it in. Bring to a boil, turn heat to low, cover and simmer about 15-20 minutes so all the flavors merge. You can use a potato masher to mash some of the chickpeas and thicken the sauce. If the chana masala looks too dry, add more water. Squeeze in the lemon juice and garnish with coriander leaves, if using. Make the bhatura: Heat oil for frying in a pan large enough to hold the bhatura. Divide the dough into 12 pieces and roll each into a ball. Roll out into a circle about six to eight inches in diameter. Make sure you roll the dough evenly, without any spots that are too thick or too thin.  When the oil is hot, about 360 degrees, place a bhatura into the pan, taking care not to splash the oil on yourself. Use a spatula to press the bhatura down as it puffs up -- this will ensure it cooks evenly and puffs into a ball. Remove the bhatura to a colander lined with paper towels. Serve hot with the chana masala.",
+        "category": "Vegan",
+        "image": "https://holycowvegan.net/wp-content/uploads/2008/10/chole-bhatura-chana-bhatura-11.jpg",
+        "difficulty": "Hard",
+        "id": 12
+      },
+      {
+        "title": "Chicken Biryani",
+        "calories": "650",
+        "instructions": "Mix Marinade in a large pot (about 26cm / 11\" diameter). Add chicken and coat well. Marinade 20 minutes to overnight. PAR BOILED RICE: Bring 3 litres / 3 quarts water to the boil, add salt and spices. Add rice, bring back up to the boil then cook for 4 minutes, or until rice is just cooked still a bit firm in the middle. Rice will taste salty at this stage, disappears in next stage of cooking. Drain immediately. Set aside. (Note 10 re: leaving whole spices in) CRISPY ONIONS: Heat oil in a large saucepan over medium high heat. Cook onion, in batches, for 3 to 4 minutes, until golden brown. Don't burn - they become bitter. Remove onto paper towel lined plate. Repeat with remaining onion. SAFFRON: Place in a bowl, leave for 10 minutes+. BIRYANI: Place pot with chicken in it onto a stove over medium heat. Cover and cook for 5 minutes. Remove lid. Cook for 5 minutes, turning chicken twice. Remove from heat. Turn chicken so skin side is down - it should cover most of the base of the pot. Scatter over half the onion then half the coriander. Top with all the rice. Gently pat down and flatten surface. Drizzle saffron across rice surface in random pattern, then drizzle over ghee. Place lid on. Return to stove over medium heat. As soon as you see steam, turn down to low then cook for 25 minutes. Remove from stove, rest with lid on for 10 minutes. TO SERVE: Aim to serve it so you get nice patches of yellow rice, white rice, the curry stained rice + chicken (rather than all mixed up). To do this, use a large spoon and dig deep into the pot, and try to scoop up as much as you can in one scoop. Turn out into bowl - or onto platter. Garnish with remaining onion and coriander with yoghurt on the side (see Note 7 for Minted Yoghurt)",
+        "category": "Meat",
+        "image": "https://www.recipetineats.com/wp-content/uploads/2018/08/Chicken-Biryani_4.jpg",
+        "difficulty": "Hard",
+        "id": 13
+      },
+      {
+        "title": "Beef Stroganoff",
+        "calories": "350",
+        "instructions": "Cut beef across grain into about 1 1/2x1/2-inch strips. 2 Cook mushrooms, onions and garlic in butter in 10-inch skillet over medium heat, stirring occasionally, until onions are tender; remove from skillet. 3 Cook beef in same skillet until brown. Stir in 1 cup of the broth, the salt and Worcestershire sauce. Heat to boiling; reduce heat. Cover and simmer 15 minutes. 4 Stir remaining 1/2 cup broth into flour; stir into beef mixture. Add onion mixture; heat to boiling, stirring constantly. Boil and stir 1 minute. Stir in sour cream; heat until hot (do not boil). Serve over noodles.",
+        "category": "Meat",
+        "image": "https://valentinascorner.com/wp-content/uploads/2020/06/Beef-Stroganoff-1.jpg",
+        "difficulty": "Easy",
+        "id": 14
+      }
+    ]
+  }
+  
